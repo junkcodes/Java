@@ -22,10 +22,10 @@ public class Main {
         {
             try
             {
-            System.out.println(first.ans[i]+second.ans[i]);
-            } catch (Exception e) 
+            System.out.println(firstone.out[i]+secondone.out[i]);
+            } catch (Exception error) 
             {
-             e.printStackTrace();
+             error.printStackTrace();
             }
 
         }

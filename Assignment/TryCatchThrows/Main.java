@@ -7,7 +7,7 @@ public class Main {
             t.run();
         } catch (InterruptedException e) {
             e.printStackTrace();
-            System.out.println("Failed");
+            System.out.println("! failed !");
         }
     }
 }
